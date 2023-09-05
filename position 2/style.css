@@ -1,0 +1,32 @@
+.div {
+    width: 20rem;
+    height: 15rem;
+    background-color: blueviolet;
+    position: absolute;
+}
+
+.cirtdan {
+    width: 17rem;
+    height: 12rem;
+    background-color: rgb(218, 92, 197);
+    position: absolute;
+    margin-top: 1.5em;
+    margin-left: 1.5rem;
+
+}
+
+.salam {
+    width: 13.8rem;
+    height: 8.8rem;
+    background-color: yellow;
+    position: absolute;
+    margin: 3rem;
+    border-style: dotted;
+
+}
+
+.ee {
+    text-align: center;
+    margin-top: 3rem;
+    font-size: 2rem;
+}
